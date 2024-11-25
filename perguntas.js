@@ -21,3 +21,14 @@ criaCartao(
     'O que são fake news?',
     'Fake News são notícias falsas divulgadas principalmente nas redes sociais'
 )
+
+criaCartao(
+    'Fake News',
+    'O que são fake news?',
+    'Fake News são notícias falsas divulgadas principalmente nas redes sociais'
+
+    
+criaCartao(
+    'Fake News',
+    'O que são fake news?',
+    'Fake News são notícias falsas divulgadas principalmente nas redes sociais'
