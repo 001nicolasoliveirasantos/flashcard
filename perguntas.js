@@ -5,15 +5,15 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Tema CSS',
+    'Para que serve o id no CSS?',
+    'Estilizar um elemento unico'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Tema CSS',
+    'Como mudar a cor de fundo com CSS?',
+    'Use background-color'
 )
 
 criaCartao(
