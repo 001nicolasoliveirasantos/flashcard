@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Fake News',
+    'O que são fake news?',
+    'Fake News são notícias falsas divulgadas principalmente nas redes sociais'
 )
