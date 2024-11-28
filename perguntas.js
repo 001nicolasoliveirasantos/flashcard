@@ -21,3 +21,9 @@ criaCartao(
     'O que são fake news?',
     'Fake News são notícias falsas divulgadas principalmente nas redes sociais'
 )
+
+criaCartao(
+    'futebol',
+    'porque neymar saiu do santos?',
+    'para viajar à Europa e defender o Barcelona'
+)
