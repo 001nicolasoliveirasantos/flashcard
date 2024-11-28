@@ -27,3 +27,9 @@ criaCartao(
     'porque neymar saiu do santos?',
     'para viajar à Europa e defender o Barcelona'
 )
+
+criaCartao(
+    'futebol',
+    'Quem é o presidente do corinthians',
+    'Angusto Melo'
+)
