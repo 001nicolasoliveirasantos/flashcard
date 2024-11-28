@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
     'futebol',
-    'Quem é o presidente do corinthians',
+    'Quem é o presidente do corinthians?',
     'Angusto Melo'
 )
